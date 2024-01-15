@@ -50,7 +50,7 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col w-full h-screen justify-center items-center text-center gap-8">
+    <div className="flex flex-col w-full h-[100svh] justify-center items-center text-center gap-8">
       {index < brincadeira.length - 1 ? (
         <>
           <p className="text-2xl md:text-4xl lg:text-5xl font-bold w-full md:w-1/2 xl:w-1/3">
