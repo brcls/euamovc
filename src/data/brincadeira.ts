@@ -1,28 +1,28 @@
 export const brincadeira = [
   {
-    mensagem: "Oi, amor! Aperta no botão para revelar uma surpresa",
+    mensagem: "Oi! Aperta no botão para revelar a mensagem",
     x: "0",
     y: "0",
   },
   {
     mensagem: "Opa! fugiu hehe",
-    x: "10",
-    y: "10",
+    x: "20",
+    y: "30",
   },
   {
     mensagem: "Pega ele!",
-    x: "16",
-    y: "16",
+    x: "-25",
+    y: "30",
   },
   {
-    mensagem: "Quase vida",
-    x: "0",
-    y: "0",
+    mensagem: "Quase...",
+    x: "-20",
+    y: "-45",
   },
   {
-    mensagem: "Agora vai",
-    x: "0",
-    y: "0",
+    mensagem: "Agora vai!",
+    x: "10",
+    y: "-0",
   },
   {
     mensagem: "BOAAA, CONSEGUIU",
